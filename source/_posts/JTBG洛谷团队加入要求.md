@@ -6,6 +6,7 @@ tags:
 # 加入要求
 
 请运行 以下程序:  
+<!-- more -->
 ```cpp
 #include <bits/stdc++.h>
 
